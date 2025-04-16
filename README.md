@@ -1,2 +1,2 @@
 # C-7.Proje
-Kontrol Yapıları1
+7.Proje Eklenmiştir..
